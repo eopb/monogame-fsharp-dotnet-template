@@ -1,0 +1,2 @@
+# monogame-fsharp-dotnet-template
+
