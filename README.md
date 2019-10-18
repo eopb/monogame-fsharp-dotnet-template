@@ -1,1 +1,2 @@
 # monogame-fsharp-dotnet-template
+[![pipeline status](https://gitlab.com/efunb/monogame-fsharp-dotnet-template/badges/master/pipeline.svg)](https://gitlab.com/efunb/monogame-fsharp-dotnet-template/commits/master)
