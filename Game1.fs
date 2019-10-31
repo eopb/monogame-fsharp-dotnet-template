@@ -16,11 +16,9 @@ type Game1() as this =
 
     override this.Initialize() =
         // TODO: Add your initialization logic here
-
         base.Initialize()
 
     override this.LoadContent() = spriteBatch <- new SpriteBatch(this.GraphicsDevice)
-
     // TODO: use this.Content to load your game content here
 
     override this.Update(gameTime) =
